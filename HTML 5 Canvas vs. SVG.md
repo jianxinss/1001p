@@ -34,3 +34,6 @@
 > 对于如何选择SVG和Canvas, svg 适合高保证的静态图像
 Canvas 适用于要求高性能的场景和复杂动画场景、视频操作
 
+
+
+[API](http://segmentfault.com/a/1190000002435534)
